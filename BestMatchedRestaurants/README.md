@@ -14,8 +14,7 @@ The first thing that must be done in order to run this project is to have a
 MySQL server running in the background of the local machine where the project will
 be tested. This server must have the schema and tables imported from the dump file I included in the 
 "SQL Dump to Import" folder. This dump has a RESTAURANTS and a CUISINES table. These tables perfectly mirror the included
-CSVs from the original problem on GitHub here: (https://github.com/alphasights/take-home-assessment/tree/main/csv). I simply
-used MySQL Workbench's "Table data import wizard" after right clicking on the "bestmatchedrestaurantschema" database I created.
+CSVs from the original problem on GitHub. I simply used MySQL Workbench's "Table data import wizard" after right clicking on the "bestmatchedrestaurantschema" database I created.
 Alternatively, you can just import the original csvs into a new database like I did.
 The program will attempt to connect to the following url to access the database:
 "jdbc:mysql://localhost:3306/bestmatchedrestuarantsschema?" +
