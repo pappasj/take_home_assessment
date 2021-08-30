@@ -1,6 +1,6 @@
 Introduction
 --------------
-This is my java solution for the AlphaSights "Best matched restaurants" take home assessment. It communicates
+This is my java solution for the "Best matched restaurants" take home assessment. It communicates
 with a MySQL server that needs to be running locally. I had a lot of fun writing this
 project and am excited to hear any feedback.
 
